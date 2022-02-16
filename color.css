@@ -1,0 +1,28 @@
+img{
+
+    height: 300px;
+    width: 300px;
+    border-style: groove;
+    
+}
+
+body{
+    background-image: url("background.jpg");
+}
+
+
+h1{
+    color: black;
+    height: auto;
+    width: auto;
+    text-align-last: auto;
+    }
+
+    p{
+    color:whitesmoke;
+    
+}
+
+  li{
+    color: honeydew;
+}
